@@ -19,12 +19,19 @@ git clone https://github.com/heltonsdl/repositorio-com-readme.git
 ```
 cd repositorio-com-readme
 
+```
+3- Execute a pasta com o VScode
+```
 code.
 ```
 
-3 - Utilizando o Scrrentogif para criar gif capturando imagens 
 
+4 - Utilize o Scrrentogif para criar gif capturando imagens 
 [<img src="./screentogif1.png">](https://www.screentogif.com/)
 Clique na imagem para ser direcionaro para o download.
 
-4 - Personalize o README. 
+5 - Personalize o README. 
+
+[<img src="./tela.gif" alt="imagem de ediçao do readme no vscode">]
+
+6 - 
