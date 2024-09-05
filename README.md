@@ -34,4 +34,18 @@ Clique na imagem para ser direcionaro para o download.
 
 [<img src="./tela.gif" alt="imagem de ediçao do readme no vscode">]
 
-6 - 
+6 - Adicione os arquivos
+
+```
+git add .
+```
+7 - COMMIT!
+
+```
+git commit -m " "
+
+```
+8 - Puh!
+```
+git push
+```
