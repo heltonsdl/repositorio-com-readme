@@ -45,7 +45,7 @@ git add .
 git commit -m " "
 
 ```
-8 - Puh!
+8 - Push!
 ```
 git push
 ```
