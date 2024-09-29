@@ -1,8 +1,9 @@
 # Projeto com README
 Um projeto de teste com arquivo README. 🤖
 
-
-[<video src="./muryokusho2.mp4" alt="gif de tela com imagens de jjk para exemplificar">](https://youtu.be/MBydPqpISaY?si=Dv87eSX5k315Qbld)
+<video controls autoplay loop>
+[<soucer src="./muryokusho2.mp4" type="video/mp4">](https://youtu.be/MBydPqpISaY?si=Dv87eSX5k315Qbld)
+</video>
 
 
 ## Tecnologias utilizadas
