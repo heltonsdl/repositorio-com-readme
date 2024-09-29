@@ -2,7 +2,7 @@
 Um projeto de teste com arquivo README. 🤖
 
 
-[<img src="./muryokusho.gif" alt="gif de tela com imagens de jjk para exemplificar">](https://youtu.be/MBydPqpISaY?si=Dv87eSX5k315Qbld)
+[<img src="./aula-ssh 2.gif" alt="gif de tela com imagens de jjk para exemplificar">](https://youtu.be/MBydPqpISaY?si=Dv87eSX5k315Qbld)
 
 
 ## Tecnologias utilizadas
